@@ -1,8 +1,0 @@
-[deps]
-python = "3.11"
-numpy = ""
-scipy = ""
-
-[pip.deps]
-PyCO2SYS = ""
-kgen = ""
